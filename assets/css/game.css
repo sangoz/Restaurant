@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
 @charset "UTF-8";
 /* Variables
 -------------------------------------------------------------- */
@@ -310,7 +317,6 @@ h5 {
   margin: 5px;
   position: absolute;
   width: 90px;
-  -moz-transition: background-color 0.3s;
   -o-transition: background-color 0.3s;
   -webkit-transition: background-color 0.3s;
   transition: background-color 0.3s;
@@ -378,7 +384,6 @@ h5 {
   color: #fff;
   padding: 14px 45px;
   text-decoration: none;
-  -moz-transition: background-color 0.2s;
   -o-transition: background-color 0.2s;
   -webkit-transition: background-color 0.2s;
   transition: background-color 0.2s;
